@@ -1,0 +1,14 @@
+/*NAME: PUSHKAR TANAJI KAKADE
+CLASS: ECS BRANCH
+DIVISION: E
+ROLL NO: 51
+UIN NO: 251S060
+*/
+
+#include <stdio.h>
+
+int main()
+{
+    printf("NAME:- PUSHKAR TANAJI KAKADE\n AGE:- 18\n CLASS:- ECS\n DIVISION:- E\n UIN:- 251S060 ");
+    return 0;
+}
